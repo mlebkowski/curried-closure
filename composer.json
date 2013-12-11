@@ -1,0 +1,15 @@
+{
+    "name": "mlebkowski/curried-closure",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maciej Łebkowski",
+            "email": "m.lebkowski@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "Nassau": "src/"
+        }
+    }
+}
